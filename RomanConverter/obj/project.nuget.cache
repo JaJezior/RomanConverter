@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BW/Rg/5TgtyU+/H+6K6lXD8p7HXg40JO4DAHulmx5uOlVHGKkiFOEKxmsNLtmGb5Ns7Xn26swYnjBEa95TsUCw==",
+  "success": true,
+  "projectFilePath": "H:\\Roman\\RomanConverter\\RomanConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R2-D2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\R2-D2\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
